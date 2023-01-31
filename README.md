@@ -5,4 +5,8 @@
 • Improved the ROI from 40% to 292% with the proposed solution.</br >
 
 ![My Image](poster1.jpg)
-Poster of the presentation
+Poster of the presentation </br >
+
+[Full Project Report](https://drive.google.com/file/d/1cUEidhXj4MxJIjQSwm3qFrzyzdtjASm_/edit)</br >
+
+Thank you for reading
